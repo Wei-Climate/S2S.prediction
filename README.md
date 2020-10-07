@@ -10,5 +10,6 @@ Main Objectives:
 - To examine subseasonal predictability of both mean state climate and extreme climate events. 
 - To diagnose sources of subseasonal predictability, including the Madden–Julian oscillation (MJO), Quasi-biennial Oscillation (QBO), North Atlantic Oscillation(NAO), and Atmospheric River (AR). 
 - To improve subseasonal forecast skill and understanding on high-impact weather/climate events.  
+- To provide robust real-time forecasts 3-4 weeks ahead for effective disaster preparedness and risk management. 
 
 Length of Project: Two Years from 2020/09 to 2022/09
