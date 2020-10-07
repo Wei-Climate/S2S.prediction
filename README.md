@@ -11,4 +11,4 @@ Main Objectives:
 - To diagnose subseasonal predictability of both mean state climate and extreme climate events. 
 - To improve subseasonal forecast skill and understanding on high-impact weather/climate events.  
 
-Length of Project: 2020/09-2022/09
+Length of Project: Two Years from 2020/09 to 2022/09
