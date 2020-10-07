@@ -7,8 +7,8 @@ Background:
 
 Main Objectives: 
 - To understand the limits of and mechanisms for subseasonal predictability.
-- To examine the sources of subseasonal predictability, including the MJO, QBO, NAO, and AR. 
-- To diagnose subseasonal predictability of both mean state climate and extreme climate events. 
+- To examine subseasonal predictability of both mean state climate and extreme climate events. 
+- To diagnose sources of subseasonal predictability, including the Madden–Julian oscillation (MJO), Quasi-biennial Oscillation (QBO), North Atlantic Oscillation(NAO), and Atmospheric River (AR). 
 - To improve subseasonal forecast skill and understanding on high-impact weather/climate events.  
 
 Length of Project: Two Years from 2020/09 to 2022/09
